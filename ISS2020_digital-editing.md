@@ -1,4 +1,4 @@
-# Introduction to digital editing -- responding to research objectives of the humanities with digital methods (hosted by Monika Barget & Jaap Geraerts, duration: 180 min.)
+# Introduction to digital editing -- responding to research objectives of the humanities with digital methods (hosted by Monika Barget & Jaap Geraerts, duration: 90 min.)
 
 ## Session 1: the problem of "text" and "meaning" in the humanities and the role of scholarly editions in hermeneutics (45 min.)
 
