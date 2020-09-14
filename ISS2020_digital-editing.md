@@ -37,6 +37,6 @@ Based on two case studies, ISS participants are invited to complete simple tasks
 
 * Case Study 2: the challenges of creating annotations for the [Edward B. Littlehales](https://www.youtube.com/watch?v=wRslCtTPpzc&feature=youtu.be) edition
 
--> TASK: establish criteria for annotations in a potential digital editions of mid-19th century religious texts from Mainz
+-> TASK: establish criteria for annotations in a potential digital edition of mid-19th century religious texts from Mainz
 
 Instructions will be provided in written form.
