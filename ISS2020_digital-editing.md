@@ -29,9 +29,14 @@
 
 ## Options for self-study: challenges of editing diverse, ambiguous or incomplete historical sources
 
-Based on two case studies, ISS participants are invited to complete simple tasks in digital editing and share their results with Monika and Jaap. We would be delighted to present the participants' findings and considerations on our [research blog](https://dhlab.hypotheses.org/) 
+Based on two case studies, ISS participants are invited to complete simple tasks in digital editing and share their results with Monika and Jaap. We would be delighted to present the participants' findings and considerations on our [research blog](https://dhlab.hypotheses.org/). 
 
 * Case Study 1: normalising person names and place names in the 1st XML/TEI schema of the [Letters 1916-1923](http://letters1916.maynoothuniversity.ie/) project
-* Case Study 2: the process of creating annotations for the [Edward B. Littlehales](https://www.youtube.com/watch?v=wRslCtTPpzc&feature=youtu.be) edition
+
+-> TASK: define schema elements for a potential edition of early modern court regulations from Mainz
+
+* Case Study 2: the challenges of creating annotations for the [Edward B. Littlehales](https://www.youtube.com/watch?v=wRslCtTPpzc&feature=youtu.be) edition
+
+-> TASK: establish criteria for annotations in a potential digital editions of mid-19th century religious texts from Mainz
 
 Instructions will be provided in written form.
