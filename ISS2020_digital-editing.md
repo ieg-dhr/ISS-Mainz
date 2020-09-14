@@ -1,16 +1,21 @@
 # Introduction to digital editing -- responding to research objectives of the humanities with digital methods (hosted by Monika Barget & Jaap Geraerts, duration: 90 min.)
 
-## Session 1: the problem of "text" and "meaning" in the humanities and the role of scholarly editions in hermeneutics (45 min.)
+## Session 1: the problem of "text" and "meaning" in the humanities and the role of scholarly editions in hermeneutics (35 min.)
 
 * introduction to different disciplinary approaches to "text"
 * informational layers of "texts" and their historical conditionality (including layout/form, materiality and genre)
+* the role of markup languages in structuring text and non-text elements for systematic analysis and presentation
 * scholarly editions between description and interpretation
 
 ***
-15 minute break
+## Experiences and questions (10 min.)
+
+* (students') previous contact with scholarly editions and / or markup?
+* expectations of an MA course in "digital editing"?
+
 ***
 
-## Session 2: the history and purpose of scholarly editions from the age of print to the age of digitisation (45 min.)
+## Session 2: the history and purpose of scholarly editions from the age of print to the age of digitisation (40 min.)
 
 * introduction to scholarly editions, including their genesis, aims, and use
 * study of digital scholarly editions, mainly on the basis of concrete examples from an existing digital scholarly edition, namely the one provided by the project the [Archaeology of Reading in Early Modern Europe](https://archaeologyofreading.org/)
@@ -18,22 +23,15 @@
 > Attention will be paid to the editorial decisions that underpin this edition and how specific technologies, including XML and IIIF, are used to further specific scholarly goals. 
 
 ***
-10 minute break
+## Questions / final discussion (5 min.)
+
 ***
 
-## Session 3: challenges of editing diverse, ambiguous or incomplete historical sources (20 min.)
+## Options for self-study: challenges of editing diverse, ambiguous or incomplete historical sources
+
+Based on two case studies, ISS participants are invited to complete simple tasks in digital editing and share their results with Monika and Jaap. We would be delighted to present the participants' findings and considerations on our [research blog](https://dhlab.hypotheses.org/) 
 
 * Case Study 1: normalising person names and place names in the 1st XML/TEI schema of the [Letters 1916-1923](http://letters1916.maynoothuniversity.ie/) project
 * Case Study 2: the process of creating annotations for the [Edward B. Littlehales](https://www.youtube.com/watch?v=wRslCtTPpzc&feature=youtu.be) edition
 
-***
-10 minute break
-***
-
-## Questions / final discussion (30 min.)
-
-* (students') previous experiences
-* expectations of an MA course in "digital editing"
-* digital editing in interdisciplinary settings
-* digital editing as a link between academia and the cultural heritage sector
-* problems of peformance and sustainability in deploying digital editions
+Instructions will be provided in written form.
