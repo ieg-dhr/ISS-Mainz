@@ -1,16 +1,16 @@
 # Introduction to digital editing -- responding to research objectives of the humanities with digital methods (hosted by Monika Barget & Jaap Geraerts, duration: 180 min.)
 
-## Session 1: the problem of "text" and "meaning" in the humanities and the role of scholarly editions in hermeneutics (25 min.)
+## Session 1: the problem of "text" and "meaning" in the humanities and the role of scholarly editions in hermeneutics (45 min.)
 
 * introduction to different disciplinary approaches to "text"
 * informational layers of "texts" and their historical conditionality (including layout/form, materiality and genre)
 * scholarly editions between description and interpretation
 
 ***
-10 minute break
+15 minute break
 ***
 
-## Session 2: the history and purpose of scholarly editions from the age of print to the age of digitisation (75 min. including break)
+## Session 2: the history and purpose of scholarly editions from the age of print to the age of digitisation (45 min.)
 
 * introduction to scholarly editions, including their genesis, aims, and use
 * study of digital scholarly editions, mainly on the basis of concrete examples from an existing digital scholarly edition, namely the one provided by the project the [Archaeology of Reading in Early Modern Europe](https://archaeologyofreading.org/)
