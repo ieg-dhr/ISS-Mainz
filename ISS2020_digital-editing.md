@@ -29,7 +29,7 @@
 
 ## Options for self-study: challenges of editing diverse, ambiguous or incomplete historical sources
 
-Based on two case studies, ISS participants are invited to complete simple tasks in digital editing and share their results with Monika and Jaap. We would be delighted to present the participants' findings and considerations on our [research blog](https://dhlab.hypotheses.org/). 
+Based on two case studies, ISS participants are invited to complete optional tasks in digital editing and share their results with Monika and Jaap. We would be delighted to present the participants' findings and considerations on our [research blog](https://dhlab.hypotheses.org/). 
 
 * Case Study 1: normalising person names and place names in the 1st XML/TEI schema of the [Letters 1916-1923](http://letters1916.maynoothuniversity.ie/) project
 
