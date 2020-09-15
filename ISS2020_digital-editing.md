@@ -15,7 +15,7 @@
 
 ***
 
-## Session 2: the history and purpose of scholarly editions from the age of print to the age of digitisation (40 min.)
+## Session 2: the history and purpose of scholarly editions from the age of print to the age of digitisation (35 min.)
 
 * introduction to scholarly editions, including their genesis, aims, and use
 * study of digital scholarly editions, mainly on the basis of concrete examples from an existing digital scholarly edition, namely the one provided by the project the [Archaeology of Reading in Early Modern Europe](https://archaeologyofreading.org/)
@@ -23,7 +23,7 @@
 > Attention will be paid to the editorial decisions that underpin this edition and how specific technologies, including XML and IIIF, are used to further specific scholarly goals. 
 
 ***
-## Questions / final discussion (5 min.)
+## Questions / final discussion (10 min.)
 
 ***
 
