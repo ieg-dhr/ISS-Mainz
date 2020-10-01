@@ -1,4 +1,6 @@
-# What is a "text" (in a historical perspective)?
+# Session 1: the problem of "text" and "meaning" in the humanities and the role of scholarly editions in hermeneutics (Monika Barget, IEG MAINZ)
+
+## What is a "text" (in a historical perspective)?
 
 Our digital age is also to a large extent a textual age as we are surrounded by messenger services, social media, news feeds and websites that do not only require us to process images but also written language. So is a text merely the counterpart of an image? Or can the two overlap? How do different academic disciplines define texts?
 
@@ -40,7 +42,7 @@ The haptic / physical qualities which a "text" may have are perhaps most obvious
 
 > As Derrida observes, the pressing question here is about the difference between interpreting the world and changing it. Because the second text, the test as pardigm, seeks precisely to frame this difference and designate as the remainder, the trace, that which falls out of the immanent unfolding of empire's limits, it continues to matter today.
 
-# What informational layers does a text contain, and how "reliable" are they?
+## What informational layers does a text contain, and how "reliable" are they?
 
 * "meaning" in texts?
 
@@ -80,13 +82,13 @@ Considerations on the provenance, production and dissemination of texts are part
 
 The historic context of a text -- including technological developments in text production -- always matters. Interpretations of a text and its representation in secondary media are, therefore, neither purely subjective nor objective. Modes of text analysis and text transmission, too, have a history. 
 
-# Markup as a way to structure and interpret text
+## Markup as a way to structure and interpret text
 
 One attempt to unify the description and analysis of texts across languages was the development of "markup". Markup is a set of signs that are added to a source to create links between words or to others texts, sort sources by date, identify authors or provide additional context. It is important to note that markup predates the digital age as markup was (and is!) also used in the form of handwritten instructions to a printer. Digital standard procedures to encode text are markup languages. The most commonly used markup language for digital text-based editions in the humanities is XML.
 
 *For samples of manuscript markup, please see [“Deciphering Copyediting Markup” by Ella Dyson, 14th December 14 2017](https://writersblockpartyblog.com/2017/12/14/deciphering-copyediting-markup/).*
 
-# Overview of markup languages and their development
+## Overview of markup languages and their development
 
 The "mother" of modern markup languages is SGML (Standard Generalized Markup Language), defined as an ISO standard. SGML descended from IBM's Generalized Markup Language (GML), which Charles Goldfarb, Edward Mosher, and Raymond Lorie developed in the 1960s. 
 
@@ -109,13 +111,13 @@ As such, XML is also particularly suitable for digital editions in the humanitie
 
 The *Timeline of Markup Languages*, published in [“Markup Language for the Wireless World”, 5th February 2009](https://mobilewireless.wordpress.com/2009/02/05/markup-language-for-the-wireless-world/), provides a useful visualisation.
 
-# XML/TEI as the established standard in digital editing
+## XML/TEI as the established standard in digital editing
 
 XML uses *tags (<>)* similar to HTML. It has more rigid hierarchies / nesting rules but permits the "invention" of additional tags and / or attributes to describe text features.
 A widely recognised attempt to provide guidelines for the use of XML in digital editions has been made by the [Text Encoding Initiative (TEI)](
 https://tei-c.org/).
 
-# Writing and editing XML with XML editors
+## Writing and editing XML with XML editors
 
 Although XML can be written with any standard plain text editor, special XML editors foster correct syntax and include special features for the parsing and analysis of XML files.
 
@@ -127,11 +129,11 @@ An open-source editor that runs on Windows, Linux and Mac is [BaseX](https://bas
 
 WIKIPEDIA provides a handy [overview of XML editors](https://en.wikipedia.org/wiki/Comparison_of_XML_editors), detailing their functionality and their compatibility with different operating systems.
 
-# Scholarly editions between description and interpretation
+## Scholarly editions between description and interpretation
 
 Preparing a text for a scholarly edition, whether printed or digital, is a challenging task as our attempts to structure and markup our sources always transcend mere description and move towards interpretation. Scholarly editing is often multimodal because different source types need to be included. Text, for instance, is often combined with images. Moreover, editions require a certain level of normalisation, linking and abstraction. Therefore, editions are essentially *texts in contexts*.
 
-# Established elements of scholarly editing
+## Established elements of scholarly editing
 
 e.g. [Hitler, mein Kampf - eine kritische Edition](https://www.ifz-muenchen.de/aktuelles/themen/edition-mein-kampf/)
 
@@ -148,13 +150,13 @@ e.g. [Hitler, mein Kampf - eine kritische Edition](https://www.ifz-muenchen.de/a
     Ausblick auf die Folgen von Hitlers Schrift
     Neue Beiträge zur Grundlagenforschung
     
-# Chances and challenges of digitisation
+## Chances and challenges of digitisation
 
 [Stigler, Johannes H. “VON DER DIGITALISIERUNG ZUR DIGITALEN EDITION.” Theater - Zettel - Sammlungen: Erschließung, Digitalisierung, Forschung, edited by Matthias J. Pernerstorfer, vol. 1, Hollitzer Verlag, Wien, 2012, pp. 125–134](www.jstor.org/stable/j.ctv6jmb66.13):
 
 > Fragen der Verwaltung und Bereitstellung von digitalen Ressourcen kommt heute in Museen, Archiven und Bibliotheken, aber auch in der geisteswissenschaftlichen Forschung zunehmende Bedeutung zu. Vielerorts hat man mit der Digitalisierung von Beständen begonnen und versucht so zur Erhaltung und bestandsschonenden Zugänglichmachung von Büchern, Handschriften und anderen kulturellen Artefakten beizutragen. Die heute verfügbaren Speichermedien setzen dabei Massendigitalisierungsprojekten keine wirklichen physikalischen Grenzen, vielmehr sind es Fragen der Logistik und Nachhaltigkeit, die sich in solchen Projekten in vielfacher Weise stellen. 
 
-# Examples of digital scholarly editions
+## Examples of digital scholarly editions
 
 [EADH catalogue of digital editions](https://dig-ed-cat.acdh.oeaw.ac.at/)
 
@@ -162,7 +164,7 @@ e.g. [Hitler, mein Kampf - eine kritische Edition](https://www.ifz-muenchen.de/a
 
 The catalogue can be filtered by period. One example of an early modern edition is [In Mozart's Words - an annotated version of the voluminous correspondence of Mozart and his family](https://www.dhi.ac.uk/mozartwords/) created by Stiftung Mozarteum Salzburg, the University of Sheffield and King's College London.
 
-# Credits and topics for further discussion
+## Credits and topics for further discussion
 
 *Thanks to:*
 
